@@ -30,3 +30,6 @@
 # test statistics. Finally, we found and 
 # plotted the predictive distribution of 
 # the forecast for the upcoming quarter.
+
+# Will be adding support for live web scrapping
+# for FRED data using Quandl in the future
